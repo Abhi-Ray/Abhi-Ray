@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek Ray.
-- 👀 I’m interested in Programming, Travelling, Anime, Cooking.
+- 👀 I’m interested in Programming, AstroPhysics, Travelling, Anime, Cooking.
 - 🌱 I’m currently pursuing my undergrad in computer science engineering.
 - 💞️ I’m looking to collaborate on web development and open source projects.
 - 📫 You can reach me on rayabhishek20112000@gmail.com or https://www.linkedin.com/in/abhishek-ray-62321120a
